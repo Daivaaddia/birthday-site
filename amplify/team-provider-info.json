@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-retweb-dev-175637-authRole",
+      "UnauthRoleArn": "arn:aws:iam::851725560503:role/amplify-retweb-dev-175637-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::851725560503:role/amplify-retweb-dev-175637-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-retweb-dev-175637-deployment",
+      "UnauthRoleName": "amplify-retweb-dev-175637-unauthRole",
+      "StackName": "amplify-retweb-dev-175637",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:851725560503:stack/amplify-retweb-dev-175637/29d8d460-e750-11ee-b50b-0a91bc59e3ff",
+      "AmplifyAppId": "d3gzo1b2tv21kl"
+    },
+    "categories": {
+      "api": {
+        "retweb": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3gzo1b2tv21kl",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
